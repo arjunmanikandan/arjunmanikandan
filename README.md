@@ -23,9 +23,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <p><a href="https://twitter.com/Arjun_utd_fan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /> </p>
-&nbsp; <p> <a href="https://www.instagram.com/a._r._j._u._n_01/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50"/></p>
-&nbsp; <p> <a href="https://www.linkedin.com/in/arjun-manikandan-082408231/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"><a></p>
-
-&nbsp; <a href="mailto:arjunmanikandan319@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<a href="https://twitter.com/Arjun_utd_fan" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
+<a href="https://www.instagram.com/a._r._j._u._n_01/rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50"/>
+<a href="https://www.linkedin.com/in/arjun-manikandan-082408231/rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"><a>
+<a href="mailto:arjunmanikandan319@gmail.com"/rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
